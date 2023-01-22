@@ -1,12 +1,17 @@
 package com.dataStructures;
 
+import java.util.Scanner;
+
 public class Main {
 
+    private static Scanner input = new Scanner(System.in);
+
     public static void main(String[] args) {
-	// write your code here
-
-
+        // write your code here
 
 
     }
+
+
 }
+
